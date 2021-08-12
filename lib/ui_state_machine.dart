@@ -1,5 +1,3 @@
-//library uistate;
-
 export 'src/state_management/uistate.dart';
 export 'src/state_management/transition.dart';
 export 'src/state_management/uistate_manager.dart';

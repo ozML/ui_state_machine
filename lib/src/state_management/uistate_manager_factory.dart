@@ -1,6 +1,6 @@
-import 'package:uistate/src/state_management/transition.dart';
-import 'package:uistate/src/state_management/uistate.dart';
-import 'package:uistate/src/state_management/uistate_manager.dart';
+import 'package:ui_state_machine/src/state_management/transition.dart';
+import 'package:ui_state_machine/src/state_management/uistate.dart';
+import 'package:ui_state_machine/src/state_management/uistate_manager.dart';
 
 /// This factory class can be usde to assemble a [UIStateManager] instance with
 /// all states and transitions.

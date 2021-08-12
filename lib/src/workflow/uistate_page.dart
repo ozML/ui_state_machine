@@ -4,7 +4,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
-import 'package:uistate/src/state_management/uistate.dart';
+import 'package:ui_state_machine/src/state_management/uistate.dart';
 
 /// The [Page] implemenation for the UI state workflow.
 abstract class UIStatePage extends Page<PageConfiguration> {

@@ -1,9 +1,9 @@
 import 'dart:collection';
 
 import 'package:flutter/widgets.dart';
-import 'package:uistate/src/state_management/uistate_manager.dart';
-import 'package:uistate/src/workflow/routing.dart';
-import 'package:uistate/src/workflow/uistate_page.dart';
+import 'package:ui_state_machine/src/state_management/uistate_manager.dart';
+import 'package:ui_state_machine/src/workflow/routing.dart';
+import 'package:ui_state_machine/src/workflow/uistate_page.dart';
 
 /// Widget which encapsulates all relevant information for ui state workflow.
 ///

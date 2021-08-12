@@ -1,5 +1,5 @@
-import 'package:uistate/src/state_management/transition.dart';
-import 'package:uistate/src/state_management/uistate.dart';
+import 'package:ui_state_machine/src/state_management/transition.dart';
+import 'package:ui_state_machine/src/state_management/uistate.dart';
 
 /// Utility class with some help functions regarding states.
 class UIStateUtils {

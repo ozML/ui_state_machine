@@ -1,10 +1,10 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:uistate/src/state_management/uistate.dart';
-import 'package:uistate/src/state_management/uistate_manager.dart';
-import 'package:uistate/src/utils/uistate_utils.dart';
-import 'package:uistate/src/workflow/uistate_page.dart';
-import 'package:uistate/src/workflow/uistate_workflow.dart';
+import 'package:ui_state_machine/src/state_management/uistate.dart';
+import 'package:ui_state_machine/src/state_management/uistate_manager.dart';
+import 'package:ui_state_machine/src/utils/uistate_utils.dart';
+import 'package:ui_state_machine/src/workflow/uistate_page.dart';
+import 'package:ui_state_machine/src/workflow/uistate_workflow.dart';
 
 /// The default [RouteInformationParser] implementation for [UIStateWorkflow].
 ///

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:uistate/uistate.dart';
+import 'package:ui_state_machine/ui_state_machine.dart';
 
 void main() {
   runApp(UIStateSampleApp());

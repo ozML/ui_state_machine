@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^5.0.0
-  uistate:
+  ui_state_machine:
     path: ../
 
 dev_dependencies:

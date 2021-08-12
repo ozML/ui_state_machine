@@ -1,21 +1,21 @@
 import 'package:flutter/foundation.dart';
-import 'package:uistate/src/errors/circular_state_traversal_exception.dart';
-import 'package:uistate/src/errors/duplicate_state_exception.dart';
-import 'package:uistate/src/errors/duplicate_transition_exception.dart';
-import 'package:uistate/src/errors/group_state_target_exception.dart';
-import 'package:uistate/src/errors/multiple_start_states_exception.dart';
-import 'package:uistate/src/errors/no_start_state_exception.dart';
-import 'package:uistate/src/errors/state_manager_invalid_exception.dart';
-import 'package:uistate/src/errors/state_manager_not_initialized_exception.dart';
-import 'package:uistate/src/errors/state_manager_not_validated_exception.dart';
-import 'package:uistate/src/errors/state_not_found_exception.dart';
-import 'package:uistate/src/errors/transition_source_not_found_exception.dart';
-import 'package:uistate/src/errors/transition_target_not_found_exception.dart';
-import 'package:uistate/src/errors/unreachable_state_exception.dart';
-import 'package:uistate/src/state_management/transition.dart';
-import 'package:uistate/src/state_management/uistate.dart';
-import 'package:uistate/src/state_management/uistate_manager_factory.dart';
-import 'package:uistate/src/utils/uistate_utils.dart';
+import 'package:ui_state_machine/src/errors/circular_state_traversal_exception.dart';
+import 'package:ui_state_machine/src/errors/duplicate_state_exception.dart';
+import 'package:ui_state_machine/src/errors/duplicate_transition_exception.dart';
+import 'package:ui_state_machine/src/errors/group_state_target_exception.dart';
+import 'package:ui_state_machine/src/errors/multiple_start_states_exception.dart';
+import 'package:ui_state_machine/src/errors/no_start_state_exception.dart';
+import 'package:ui_state_machine/src/errors/state_manager_invalid_exception.dart';
+import 'package:ui_state_machine/src/errors/state_manager_not_initialized_exception.dart';
+import 'package:ui_state_machine/src/errors/state_manager_not_validated_exception.dart';
+import 'package:ui_state_machine/src/errors/state_not_found_exception.dart';
+import 'package:ui_state_machine/src/errors/transition_source_not_found_exception.dart';
+import 'package:ui_state_machine/src/errors/transition_target_not_found_exception.dart';
+import 'package:ui_state_machine/src/errors/unreachable_state_exception.dart';
+import 'package:ui_state_machine/src/state_management/transition.dart';
+import 'package:ui_state_machine/src/state_management/uistate.dart';
+import 'package:ui_state_machine/src/state_management/uistate_manager_factory.dart';
+import 'package:ui_state_machine/src/utils/uistate_utils.dart';
 
 /// The Statemanager class provides a workflow for state based view management.
 ///

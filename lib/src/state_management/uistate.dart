@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:uistate/src/errors/unconditional_state_exception.dart';
-import 'package:uistate/src/state_management/transition.dart';
+import 'package:ui_state_machine/src/errors/unconditional_state_exception.dart';
+import 'package:ui_state_machine/src/state_management/transition.dart';
 
 /// Represents a state in the state based view workflow.
 ///
